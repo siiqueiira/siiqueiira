@@ -1,16 +1,16 @@
 ## Olá, eu sou Gabriel Siqueira!
 
 - 🔭 Hoje sou estudante de Ciência da Computação...
-- 🌱 Estudando Python, Java e Banco de Dados...
-- 👯 Atualmente desenvolvendo projetos Back/Front-End...
+- 🚀 Estudando Python, Java e Banco de Dados...
+- 💻 Atualmente desenvolvendo projetos Back/Front-End...
 - ⚡ Conhecimentos em projetos feitos com HTML, CSS, Python...
 
 ### <b>Habilidades</b>
 <p align="left">
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   ##
   
