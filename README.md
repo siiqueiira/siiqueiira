@@ -1,8 +1,8 @@
 ## Olá, eu sou Gabriel Siqueira!
 
 - 🔭 Hoje sou estudante de Ciência da Computação...
-- 💻 Atualmente desenvolvendo projetos com Java;
-- ⚡ Conhecimentos em projetos feitos com HTML, CSS, Python...
+- 💻 Atualmente desenvolvendo projetos de automação em Python;
+- ⚡ Conhecimentos em projetos feitos com Java, MySQL...
 
 ### <b>Habilidades</b>
 <p align="left">
